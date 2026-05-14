@@ -1,0 +1,6 @@
+{
+  "_comment": "Placeholder. Replace with the real CampusLogin swagger.json when DJ provides it. Once present, regenerate lib/campuslogin/types.ts via: npx openapi-typescript docs/swagger.json -o lib/campuslogin/generated.ts",
+  "openapi": "3.0.1",
+  "info": { "title": "CampusLogin Connector API", "version": "TBD" },
+  "paths": {}
+}
